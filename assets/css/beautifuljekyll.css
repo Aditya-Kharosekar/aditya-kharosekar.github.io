@@ -363,7 +363,7 @@ img {
 }
 
 .navbar-custom .avatar-container .avatar-img-border {
-  width: 100%;
+  width: 200%;
   margin-left: -50%;
   {% unless site.round-avatar == false %}
     border-radius: 50%;
@@ -373,7 +373,7 @@ img {
   {% endunless %}
 }
 .navbar-custom .avatar-container .avatar-img {
-  width: 100%;
+  width: 200%;
   {% unless site.round-avatar == false %}
     border-radius: 50%;
   {% endunless %}
