@@ -200,7 +200,7 @@ img {
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
-  height: 10rem;
+  height: 2.5rem;
 }
 
 .navbar-custom .navbar-nav .nav-item {
@@ -250,7 +250,7 @@ img {
   }
 
   .navbar-custom .navbar-brand-logo img {
-    height: 10rem; /*this was 3.125 */
+    height: 3.125rem;
   }
 
   .navbar-expand-xl .navbar-nav .nav-link {
@@ -348,7 +348,7 @@ img {
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
-  width: 9rem;
+  width: 3.125rem;
   bottom: -1.5rem;
   transition: opacity 0.5s ease-in-out;
   -webkit-transition: opacity 0.5s ease-in-out;
@@ -363,7 +363,7 @@ img {
 }
 
 .navbar-custom .avatar-container .avatar-img-border {
-  width: 200%;
+  width: 100%;
   margin-left: -50%;
   {% unless site.round-avatar == false %}
     border-radius: 50%;
@@ -373,7 +373,7 @@ img {
   {% endunless %}
 }
 .navbar-custom .avatar-container .avatar-img {
-  width: 200%;
+  width: 100%;
   {% unless site.round-avatar == false %}
     border-radius: 50%;
   {% endunless %}
@@ -400,7 +400,7 @@ img {
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img {
-    width: 200%;
+    width: 100%;
   }
 }
 
