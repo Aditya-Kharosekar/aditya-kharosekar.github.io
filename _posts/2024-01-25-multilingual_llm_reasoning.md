@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Paper - Multilingual LLM
-subtitle: Multilingual Mathematical Reasoning: Advancing Open-Source LLMs in Hindi
+title: Curriculum Learning and Bi-lingual training could help LLMs do math in Hindi
+subtitle: Multilingual Mathematical Reasoning - Advancing Open-Source LLMs in Hindi and English by Anand et. al.
 and English
 tags: [llm, paper reading]
 ---
+
+** The paper is not technically difficult but very hard to read **
+* Honestly a very difficult paper to read because of how it was formatted. The decision to titlecase the paper’s contributions every time in the paper - Decomposition Strategy, Structured Solution Creation,  etc - made the paper very hard to read. Italics or acronyms would have been so much better.
 
 ** My takeaways from this paper: **
 
