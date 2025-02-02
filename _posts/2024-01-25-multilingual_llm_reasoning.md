@@ -2,7 +2,6 @@
 layout: post
 title: Curriculum Learning and Bi-lingual training could help LLMs do math in Hindi
 subtitle: Multilingual Mathematical Reasoning - Advancing Open-Source LLMs in Hindi and English by Anand et. al.
-and English
 tags: [llm, paper reading]
 ---
 
