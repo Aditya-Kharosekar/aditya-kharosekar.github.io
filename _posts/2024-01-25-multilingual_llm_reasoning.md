@@ -5,6 +5,8 @@ subtitle: Multilingual Mathematical Reasoning - Advancing Open-Source LLMs in Hi
 tags: [llm, paper reading]
 ---
 
+Arxiv link: [Multilingual Mathematical Reasoning: Advancing Open-Source LLMs in Hindi and English](https://arxiv.org/pdf/2412.18415)
+
 ## Outline and major points
 * LLMs are good at linguistic tasks, less good at mathematical tasks. Even within math tasks, they struggle with complex math questions. LLMs are good in English, but less good at other languages like Hindi.
 * This paper focuses on improving LLM performance on math tasks in Hindi, and also in bilingual settings.
@@ -22,7 +24,6 @@ tags: [llm, paper reading]
 * Honestly a very difficult paper to read because of how it was formatted. The decision to titlecase the paper’s contributions every time in the paper - Decomposition Strategy, Structured Solution Creation,  etc - made the paper very hard to read. Italics or acronyms would have been so much better.
 
 * Figures and tables are hard to interpret
-    - They don’t explain what their Decomposition Strategy means in terms of addition and substraction math problems. But the tables do have them.
     - I would have preferred if Tables 3 and 4 came into the narrative after table 2. In the current paper, there’s a lot of back and forth between 2,3, and 4 and because they are referencing different training datasets, models, and are on different pages, this back and forth gets tiring. I gave up after my second attempt reading the paper.
     - In the Results & Analysis section, they talk a lot about changes in performance. But it is not at all easy to follow that back to the tables and charts they are referencing. I think creating more focused tables and charts, even at the cost of some redundancy, would have helped tremendously. Or some charts that are solely focused on showing the performance improvements.
 
